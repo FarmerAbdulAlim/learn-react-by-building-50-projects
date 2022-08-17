@@ -65,4 +65,4 @@
 ![Hello World App](01-hello-world-app/images/hello-world.png)
 
 ### Project Source Code
-[Project Source Codes and Directory](./01-hello-world-app/)
+[Project Source Codes and Directory](01-hello-world-app/)
