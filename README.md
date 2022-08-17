@@ -1,11 +1,11 @@
 # 50 React Projects for Beginners from Easy to Hard.
 
-| **Project** |   **Topics**  |
+| **Project No** | **Project Name**  |
 |:-------:|:------------:|
 |    [01](#01-hello-world-app)    | [Hello World App](#01-hello-world-app) |
 |    [02](./day-02-html-tags/DAY02.md)    |   [Simple Counter](./day-02-html-tags/DAY02.md)           |
-|    [03](./day-03-html-entities-links-images-audio-videos/DAY03.md)    |   [HTML Entities, Hyperlinks, Images, Audio, Videos](./day-03-html-entities-links-images-audio-videos/DAY03.md)           |
-|    [04](./day-04-list-tables-containers/DAY04.md)    |    [List, Tables, Containers](./day-04-list-tables-containers/DAY04.md)          |
+|    03    |              |
+|    04    |              |
 |    05    |              |
 |    06    |              |
 |    07    |              |
@@ -64,5 +64,9 @@
 ### Project Screenshot
 ![Hello World App](01-hello-world-app/images/hello-world.png)
 
-### Project Source Code
-[Project Source Codes and Directory](01-hello-world-app/)
+### Project Source Codes
+[Click Here to View Source Codes](01-hello-world-app/)
+
+### Video Explanation
+Coming Soon...
+
