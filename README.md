@@ -2,7 +2,7 @@
 
 | **Project** |   **Topics**  |
 |:-------:|:------------:|
-|    [01](./day-01-introduction/DAY01.md)    | [Hello World App](./day-01-introduction/DAY01.md) |
+|    [01](#01-hello-world-app)    | [Hello World App](#01-hello-world-app) |
 |    [02](./day-02-html-tags/DAY02.md)    |   [Simple Counter](./day-02-html-tags/DAY02.md)           |
 |    [03](./day-03-html-entities-links-images-audio-videos/DAY03.md)    |   [HTML Entities, Hyperlinks, Images, Audio, Videos](./day-03-html-entities-links-images-audio-videos/DAY03.md)           |
 |    [04](./day-04-list-tables-containers/DAY04.md)    |    [List, Tables, Containers](./day-04-list-tables-containers/DAY04.md)          |
