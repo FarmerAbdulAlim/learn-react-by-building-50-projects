@@ -4,7 +4,7 @@
 |:-------:|:------------:|
 |    [01](#01-hello-world-app)    | [Hello World App](#01-hello-world-app) |
 |    [02](#02-simple-counter)    |   [Simple Counter](#02-simple-counter)           |
-|    03    |              |
+|    [03](#03-product-list-app)    |  [Product List App](#03-product-list-app)            |
 |    04    |              |
 |    05    |              |
 |    06    |              |
@@ -86,10 +86,30 @@ Coming Soon...
 A simple counter project which allows you to **increment**, **decrement** and **reset** a value by clicking the respective buttons.
 
 ### Project Screenshot
-![Hello World App](./02-simple-counter/images/simple-counter.png)
+![Simple Counter](./02-simple-counter/images/simple-counter.png)
 
 ### Project Source Codes
 [Click Here to View Source Codes](./02-simple-counter/)
+
+### Video Explanation
+Coming Soon...
+
+[Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
+
+# 03. Product List App
+### Difficulty: Easy (2/10)
+### Topics Covered
+- Creating Components.
+- Using same components to make similar types of contents.
+
+### Project Description
+This tiny project belongs to a simple UI which shows a list of products. Each section of products looks similar, but different in data which invokes developers to use React in their app.
+
+### Project Screenshot
+![Product List App](./03-product-list-app/images/drone.png)
+
+### Project Source Codes
+[Click Here to View Source Codes](./03-product-list-app/)
 
 ### Video Explanation
 Coming Soon...

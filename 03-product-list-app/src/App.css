@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+}
+button {
+  padding: 4px 8px;
+  border: 2px solid gray;
+  border-radius: 3px;
+  background: aqua;
+}
