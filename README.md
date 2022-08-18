@@ -61,6 +61,9 @@
 - React Setup.
 - Modifying **app.js** file.
 
+### Project Description
+A simple react project which prints **Hello World**.
+
 ### Project Screenshot
 ![Hello World App](./01-hello-world-app/images/hello-world.png)
 
@@ -78,6 +81,9 @@ Coming Soon...
 - Basic Concept of Component.
 - React State.
 - Creating a Simple Counter Component.
+
+### Project Description
+A simple counter project which allows you to **increment**, **decrement** and **reset** a value by clicking the respective buttons.
 
 ### Project Screenshot
 ![Hello World App](./02-simple-counter/images/simple-counter.png)
