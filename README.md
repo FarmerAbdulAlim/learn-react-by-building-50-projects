@@ -56,9 +56,9 @@
 
 # 01. Hello World App
 ### Difficulty: Easy (1/10)
-### Topics Covered
-- Node Install.
-- React Setup.
+### You Will Learn
+- How to install node.
+- How to setup React.
 - Modifying **app.js** file.
 
 ### Project Description
@@ -77,7 +77,7 @@ Coming Soon...
 
 # 02. Simple Counter
 ### Difficulty: Easy (2/10)
-### Topics Covered
+### You Will Learn
 - Basic Concept of Component.
 - React State.
 - Creating a Simple Counter Component.
@@ -98,9 +98,9 @@ Coming Soon...
 
 # 03. Product List App
 ### Difficulty: Easy (2/10)
-### Topics Covered
-- Creating Components.
-- Using same components to make similar types of contents.
+### You Will Learn
+- How to create and reuse components when needed.
+- How to use same components to make similar types of contents (which is the react's one of the best features).
 
 ### Project Description
 This tiny project belongs to a simple UI which shows a list of products. Each section of products looks similar, but different in data which invokes developers to use React in their app.
