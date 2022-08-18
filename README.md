@@ -3,7 +3,7 @@
 | **Project No** | **Project Name**  |
 |:-------:|:------------:|
 |    [01](#01-hello-world-app)    | [Hello World App](#01-hello-world-app) |
-|    [02](./day-02-html-tags/DAY02.md)    |   [Simple Counter](./day-02-html-tags/DAY02.md)           |
+|    [02](#02-simple-counter)    |   [Simple Counter](#02-simple-counter)           |
 |    03    |              |
 |    04    |              |
 |    05    |              |
