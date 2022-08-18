@@ -57,12 +57,12 @@
 # 01. Hello World App
 ### Difficulty: Easy (1/10)
 ### Topics Covered
-- Node Install
-- React Setup
+- Node Install.
+- React Setup.
 - Modifying **app.js** file.
 
 ### Project Screenshot
-![Hello World App](01-hello-world-app/images/hello-world.png)
+![Hello World App](./01-hello-world-app/images/hello-world.png)
 
 ### Project Source Codes
 [Click Here to View Source Codes](01-hello-world-app/)
@@ -70,3 +70,18 @@
 ### Video Explanation
 Coming Soon...
 
+# 02. Simple Counter
+### Difficulty: Easy (2/10)
+### Topics Covered
+- Basic Concept of Component.
+- React State.
+- Creating a Simple Counter Component.
+
+### Project Screenshot
+![Hello World App](./02-simple-counter/images/simple-counter.png)
+
+### Project Source Codes
+[Click Here to View Source Codes](./02-simple-counter/)
+
+### Video Explanation
+Coming Soon...
