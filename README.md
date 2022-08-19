@@ -68,7 +68,7 @@ A simple react project which prints **Hello World**.
 ![Hello World App](./01-hello-world-app/images/hello-world.png)
 
 ### Project Preview Link  
-**<a href="https://csb-rwcjfk.vercel.app/" target="_blank">Project Preview</a>**
+**[Project Preview](https://csb-rwcjfk.vercel.app/)**
 
 ### Project Source Codes
 **[Source Codes](01-hello-world-app/)**
@@ -92,7 +92,7 @@ A simple counter project which allows you to **increment**, **decrement** and **
 ![Simple Counter](./02-simple-counter/images/simple-counter.png)
 
 ### Project Preview Link 
-**<a href="https://csb-iwjv8e.vercel.app/" target="_blank">Project Preview</a>**
+**[Project Preview](https://csb-iwjv8e.vercel.app/)**
 
 ### Project Source Codes
 **[Source Codes](./02-simple-counter/)**
@@ -115,7 +115,7 @@ This tiny project belongs to a simple UI which shows a list of products. Each se
 ![Product List App](./03-product-list-app/images/drone.png)
 
 ### Project Preview Link 
-**<a href="https://csb-y4dfon.vercel.app/" target="_blank">Project Preview</a>**
+**[Project Preview](https://csb-y4dfon.vercel.app/)**
 
 ### Project Source Codes
 **[Source Codes](./03-product-list-app/)**
