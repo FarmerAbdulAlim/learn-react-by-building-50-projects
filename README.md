@@ -76,7 +76,7 @@ A simple react project which prints **Hello World**.
 ### Video Explanation
 Coming Soon...
 
-## [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
+### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 02. Simple Counter
 ### Difficulty: Easy (2/10)
