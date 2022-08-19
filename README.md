@@ -100,7 +100,7 @@ A simple counter project which allows you to **increment**, **decrement** and **
 ### Video Explanation
 Coming Soon...
 
-## [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
+### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 03. Product List App
 ### Difficulty: Easy (2/10)
@@ -123,4 +123,4 @@ This tiny project belongs to a simple UI which shows a list of products. Each se
 ### Video Explanation
 Coming Soon...
 
-## [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
+### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
