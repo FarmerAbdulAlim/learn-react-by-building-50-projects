@@ -164,10 +164,10 @@ This app display a simple clock and convert its language from Bangla to English 
 ![Clock App](./05-clock-app/images/clock.png)
 
 ### Project Link 
-**[Project Link](https://csb-y4dfon.vercel.app/)**
+**[Project Link](https://csb-dwqewq.vercel.app//)**
 
 ### Project Source Codes
-**[Source Codes](./04-simple-quotes-generator/)**
+**[Source Codes](./05-clock-app/)**
 
 ### Video Explanation
 Coming Soon...
