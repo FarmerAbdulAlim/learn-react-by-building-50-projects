@@ -1,0 +1,18 @@
+*{
+    /* Use this property if you want to include padding and border in the element's total width and height. To learn more, visit: https://www.w3schools.com/cssref/css3_pr_box-sizing.asp */
+    box-sizing: border-box;
+}
+  h1 {
+    background: antiquewhite;
+    padding: 10px 0px;
+}
+  h2 {
+    font-size: 40px;
+    background:aqua;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    padding-top: 115px;
+    margin: auto;
+}
+  

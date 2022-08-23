@@ -124,3 +124,52 @@ This tiny project belongs to a simple UI which shows a list of products. Each se
 Coming Soon...
 
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
+
+# 04. Simple Quotes Generator
+### Difficulty: Easy (3/10)
+### You Will Learn
+- How react state works.
+- How to use **useState()** and **useEffect()** function.
+
+### Project Description
+This react project generates 5 quotes by defualt with **LIKE** and **DISLIKE** icons. If you press the **LIKE** icon, the **Like** text will be **Liked** and the icon will be highlighted. On the other hand, if you press **DISLIKE** icon, the quote will be disappered in that place and replaced with another quote with the **LIKE** and **DISLIKE** icons by default.
+
+### Project Screenshot
+![Simple Quote Generator](./03-product-list-app/images/drone.png)
+
+### Project Link 
+**[Project Link](https://csb-y4dfon.vercel.app/)**
+
+### Project Source Codes
+**[Source Codes](./04-simple-quotes-generator/)**
+
+### Video Explanation
+Coming Soon...
+
+### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
+
+# 05. Clock App
+### Difficulty: Easy (3/10)
+### You Will Learn
+- React Component and Props Core Concept.
+- React State and Lifecycle in Class Component.
+- React Event Handling and Control Re-rendering.
+- How to Prevent Re-rendering A Child Component When A Parent Component Rendered.
+- Passing Property to A Component.
+
+### Project Description
+This app display a simple clock and convert its language from Bangla to English and vice versa if you press the **Change Language** button.
+
+### Project Screenshot
+![Clock App](./05-clock-app/images/clock.png)
+
+### Project Link 
+**[Project Link](https://csb-y4dfon.vercel.app/)**
+
+### Project Source Codes
+**[Source Codes](./04-simple-quotes-generator/)**
+
+### Video Explanation
+Coming Soon...
+
+### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)

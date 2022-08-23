@@ -1,0 +1,5 @@
+@import url(./components/Clock.css);
+@import url(./components/Button.css);
+.App {
+  text-align: center;
+}
