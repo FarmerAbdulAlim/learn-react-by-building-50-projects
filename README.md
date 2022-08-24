@@ -156,6 +156,7 @@ Coming Soon...
 - React Event Handling and Control Re-rendering.
 - How to Prevent Re-rendering A Child Component When A Parent Component Rendered.
 - Passing Property to A Component.
+- Conditional Rendering
 
 ### Project Description
 This app display a simple clock and convert its language from Bangla to English and vice versa if you press the **Change Language** button.
@@ -173,3 +174,33 @@ This app display a simple clock and convert its language from Bangla to English 
 Coming Soon...
 
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
+
+# 06. Temperature Converter
+### Difficulty: Medium (4/10)
+### You Will Learn
+- React Lifting State Up.
+- React State Management.
+- Best Practice about State.
+- Concept and Benefits of Uni-directional or Top-Down Data Flow in React.
+- How to Think Clearly About Splitting a Large App.
+
+### Project Description
+This app asks for a temparature in Celsius or Fahrenheit from users and displays the temparature in other format. Again this app displays whether the water will boil or not according to the provided temparature. 
+This is a very simple project, but after completing this project according to me, you'll learn a lot. My promise! :D  
+
+### Project Screenshot
+![Temperature Converter](./06-temparature-converter/images/temperature.png)
+
+### Project Link 
+**[Project Link](https://csb-dwqewq.vercel.app//)**
+
+### Project Source Codes
+**[Source Codes](./06-temparature-converter/)**
+
+### Video Explanation
+Coming Soon...
+
+### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
+
+
+

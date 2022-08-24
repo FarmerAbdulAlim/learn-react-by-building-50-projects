@@ -17,17 +17,10 @@ class Clock extends React.Component {
             time: new Date()
         })
     }
-    handleClick = () => {
-        if(this.state.locale === 'en-US') {
-            this.setState({
-                locale: 'bn-BD'
-            })
-        }
-        else {
-            this.setState({
-                locale: 'en-US'
-            })
-        }
+    handleClick = (locale) => {
+        this.setState({
+            locale: locale
+        })
     }
     render() {
         console.log("Clock Component is Rendered");
@@ -36,7 +29,11 @@ class Clock extends React.Component {
             <div>
                 <h1>Simple Clock App using React Class Component</h1>
                 <h2>{time.toLocaleTimeString(locale)}</h2>
-                <Button change = {this.handleClick} locale = 'en-US'>Change Language</Button>
+                {locale === 'bn-BD' ? (
+                    <Button change = {this.handleClick} locale = 'en-US'></Button>
+                ) : (
+                    <Button change = {this.handleClick} locale = 'bn-BD'></Button>
+                )}
             </div>
         )
     }

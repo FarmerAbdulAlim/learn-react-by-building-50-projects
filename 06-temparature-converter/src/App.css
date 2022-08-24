@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+fieldset {
+    background: antiquewhite;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+legend {
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+input {
+    height: 30px;
+    min-width: 250;
+    border: 2px solid gray;
+    border-radius: 20px;
+    padding-left: 10px;
+}
