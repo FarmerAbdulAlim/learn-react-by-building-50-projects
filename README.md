@@ -192,7 +192,7 @@ This is a very simple project, but after completing this project according to me
 ![Temperature Converter](./06-temparature-converter/images/temperature.png)
 
 ### Project Link 
-**[Project Link](https://csb-dwqewq.vercel.app//)**
+**[Project Link](https://csb-80gsxu.vercel.app/)**
 
 ### Project Source Codes
 **[Source Codes](./06-temparature-converter/)**
