@@ -5,9 +5,9 @@
 |    [01](#01-hello-world-app)    | [Hello World App](#01-hello-world-app) |
 |    [02](#02-simple-counter)    |   [Simple Counter](#02-simple-counter)           |
 |    [03](#03-product-list-app)    |  [Product List App](#03-product-list-app)            |
-|    04    |              |
-|    05    |              |
-|    06    |              |
+|    [04](#04-simple-quotes-generator)    |  [Simple Quotes Generator](#04-simple-quotes-generator)            |
+|    [05](#05-clock-app)    |   [Clock App](#05-clock-app)           |
+|    [06](#06-temperature-converter)    |   [Temerature Converter](#06-temperature-converter)           |
 |    07    |              |
 |    08    |              |
 |    09    |              |
@@ -132,13 +132,13 @@ Coming Soon...
 - How to use **useState()** and **useEffect()** function.
 
 ### Project Description
-This react project generates 5 quotes by defualt with **LIKE** and **DISLIKE** icons. If you press the **LIKE** icon, the **Like** text will be **Liked** and the icon will be highlighted. On the other hand, if you press **DISLIKE** icon, the quote will be disappered in that place and replaced with another quote with the **LIKE** and **DISLIKE** icons by default.
+This react project generates a random quote while you press **Generate Random Quote** button.
 
 ### Project Screenshot
-![Simple Quote Generator](./03-product-list-app/images/drone.png)
+![Simple Quote Generator](./04-simple-quotes-generator/images/quote.png)
 
 ### Project Link 
-**[Project Link](https://csb-y4dfon.vercel.app/)**
+**[Project Link](https://csb-xux488.vercel.app/)**
 
 ### Project Source Codes
 **[Source Codes](./04-simple-quotes-generator/)**
