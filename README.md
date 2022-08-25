@@ -65,7 +65,7 @@
 A simple react project which prints **Hello World**.
 
 ### Project Screenshot
-![Hello World App](./01-hello-world-app/images/hello-world.png)
+[![Hello World App](./01-hello-world-app/images/hello-world.png)](https://csb-rwcjfk.vercel.app/)
 
 ### Project Link  
 **[Project Link](https://csb-rwcjfk.vercel.app/)**
