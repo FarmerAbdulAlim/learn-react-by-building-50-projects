@@ -38,3 +38,10 @@ button:active {
 button:active {
   opacity: .5;
 }
+
+.quote-section {
+  background: antiquewhite;
+  margin-top: 200px;
+  padding: 10px 0px;
+  margin-bottom: 10px;
+}

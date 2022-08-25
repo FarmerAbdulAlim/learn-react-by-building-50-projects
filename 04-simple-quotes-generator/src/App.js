@@ -1,5 +1,5 @@
-import React, {useEffect, useState} from 'react';
 import './App.css';
+import Quote from './components/Quote';
 
 function App() {
   return (
@@ -8,3 +8,5 @@ function App() {
     </div>
   );
 }
+
+export default App;
