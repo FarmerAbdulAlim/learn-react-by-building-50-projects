@@ -65,6 +65,7 @@
 A simple react project which prints **Hello World**.
 
 ### Project Screenshot
+*Click the following image to view Project*
 [![Hello World App](./01-hello-world-app/images/hello-world.png)](https://csb-rwcjfk.vercel.app/)
 
 ### Project Link  
@@ -89,6 +90,7 @@ Coming Soon...
 A simple counter project which allows you to **increment**, **decrement** and **reset** a value by clicking the respective buttons.
 
 ### Project Screenshot
+*Click the following image to view Project*
 [![Simple Counter](./02-simple-counter/images/simple-counter.png)](https://csb-iwjv8e.vercel.app/)
 
 ### Project Link 
@@ -112,6 +114,7 @@ Coming Soon...
 This tiny project belongs to a simple UI which shows a list of products. Each section of products looks similar, but different in data which invokes developers to use React in their app.
 
 ### Project Screenshot
+*Click the following image to view Project*
 [![Product List App](./03-product-list-app/images/drone.png)](https://csb-y4dfon.vercel.app/)
 
 ### Project Link 
@@ -135,6 +138,7 @@ Coming Soon...
 This react project generates a random quote while you press **Generate Random Quote** button.
 
 ### Project Screenshot
+*Click the following image to view Project*
 [![Simple Quote Generator](./04-simple-quotes-generator/images/quote.png)](https://csb-xux488.vercel.app/)
 
 ### Project Link 
@@ -162,6 +166,7 @@ Coming Soon...
 This app display a simple clock and convert its language from Bangla to English and vice versa if you press the **Change Language** button.
 
 ### Project Screenshot
+*Click the following image to view Project*
 [![Clock App](./05-clock-app/images/clock.png)](https://csb-dwqewq.vercel.app//)
 
 ### Project Link 
@@ -189,6 +194,7 @@ This app asks for a temparature in Celsius or Fahrenheit from users and displays
 This is a very simple project, but after completing this project according to me, you'll learn a lot. My promise! :D  
 
 ### Project Screenshot
+*Click the following image to view Project*
 [![Temperature Converter](./06-temparature-converter/images/temperature.png)](https://csb-80gsxu.vercel.app/)
 
 ### Project Link 
