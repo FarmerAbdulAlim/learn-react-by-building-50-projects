@@ -208,5 +208,28 @@ Coming Soon...
 
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
+# 07. Counter and Hover using Higher Order Components(HOC)
+### Difficulty: Medium (4/10)
+### You Will Learn
+- React Higher Order Components (HOC).
+- How to User HOC.
+- Benefits of Using HOC.
 
+### Project Description
+This is too small counter and mouse hover app. While you click, the counter will increase and while you hover mouser, the hover counter will increase as well. The main purpose to create this app is to let you understand HOC and its benefits in React.
+
+### Project Screenshot
+*Click the following image to view Project*
+[![HOC](./07-counter-and-hover-using-hoc/images/counter-mouse-hover.png)](https://csb-80gsxu.vercel.app/)
+
+### Project Link 
+**[Project Link](https://csb-80gsxu.vercel.app/)**
+
+### Project Source Codes
+**[Source Codes](./07-counter-and-hover-using-hoc/)**
+
+### Video Explanation
+Coming Soon...
+
+### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
