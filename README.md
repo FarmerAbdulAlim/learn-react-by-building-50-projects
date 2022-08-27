@@ -233,3 +233,27 @@ Coming Soon...
 
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
+# 08. Counter and Hover using Render Props
+### Difficulty: Medium (4/10)
+### You Will Learn
+- React Render Props.
+- How to User Render Props Technique.
+
+### Project Description
+This is too small counter and mouse hover app. While you click, the counter will increase and while you hover mouser, the hover counter will increase as well. The main purpose to create this app is to let you understand **Render Props** concept in React.
+
+### Project Screenshot
+*Click the following image to view Project*
+[![Render Props](./08-counter-and-hover-using-render-props/images/cnt-hvr.png)](https://csb-ues9hg.vercel.app/)
+
+### Project Link 
+**[Project Link](https://csb-ues9hg.vercel.app/)**
+
+### Project Source Codes
+**[Source Codes](./08-counter-and-hover-using-render-props/)**
+
+### Video Explanation
+Coming Soon...
+
+### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
+
