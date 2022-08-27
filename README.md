@@ -8,7 +8,7 @@
 |    [04](#04-simple-quotes-generator)    |  [Simple Quotes Generator](#04-simple-quotes-generator)            |
 |    [05](#05-clock-app)    |   [Clock App](#05-clock-app)           |
 |    [06](#06-temperature-converter)    |   [Temerature Converter](#06-temperature-converter)           |
-|    07    |              |
+|    [07](#07-counter-and-hover-using-higher-order-componentshoc)    |   [Counter and Hover Using HOC](#07-counter-and-hover-using-higher-order-componentshoc)           |
 |    08    |              |
 |    09    |              |
 |    10   |              |
@@ -220,10 +220,10 @@ This is too small counter and mouse hover app. While you click, the counter will
 
 ### Project Screenshot
 *Click the following image to view Project*
-[![HOC](./07-counter-and-hover-using-hoc/images/counter-mouse-hover.png)](https://csb-80gsxu.vercel.app/)
+[![HOC](./07-counter-and-hover-using-hoc/images/counter-mouse-hover.png)](https://csb-ues9hg.vercel.app/)
 
 ### Project Link 
-**[Project Link](https://csb-80gsxu.vercel.app/)**
+**[Project Link](https://csb-ues9hg.vercel.app/)**
 
 ### Project Source Codes
 **[Source Codes](./07-counter-and-hover-using-hoc/)**
