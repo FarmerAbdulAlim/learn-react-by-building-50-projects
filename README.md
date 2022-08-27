@@ -8,7 +8,7 @@
 |    [04](#04-simple-quotes-generator)    |  [Simple Quotes Generator](#04-simple-quotes-generator)            |
 |    [05](#05-clock-app)    |   [Clock App](#05-clock-app)           |
 |    [06](#06-temperature-converter)    |   [Temerature Converter](#06-temperature-converter)           |
-|    [07](#07-counter-and-hover-using-higher-order-componentshoc)    |   [Counter and Hover Using HOC](#07-counter-and-hover-using-higher-order-componentshoc)           |
+|    [07](#07-counter-and-hover-using-hoc)    |   [Counter and Hover Using HOC](#07-counter-and-hover-using-hoc)           |
 |    08    |              |
 |    09    |              |
 |    10   |              |
@@ -208,7 +208,7 @@ Coming Soon...
 
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
-# 07. Counter and Hover using Higher Order Components(HOC)
+# 07. Counter and Hover using HOC
 ### Difficulty: Medium (4/10)
 ### You Will Learn
 - React Higher Order Components (HOC).
