@@ -10,7 +10,7 @@
 |    [06](#06-temperature-converter)    |   [Temerature Converter](#06-temperature-converter)           |
 |    [07](#07-counter-and-hover-using-hoc)    |   [Counter and Hover Using HOC](#07-counter-and-hover-using-hoc)           |
 |    [08](#08-counter-and-hover-using-render-props)    |     [Counter and Hover Using Render Props](#08-counter-and-hover-using-render-props)         |
-|    09    |              |
+|    [09](#09-theme-changer-with-context-api-concept)    |  [Theme Changer with Context API Concept](#09-theme-changer-with-context-api-concept)            |
 |    10   |              |
 |    11   |              |
 |    12   |              |
