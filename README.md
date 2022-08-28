@@ -257,3 +257,25 @@ Coming Soon...
 
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
+# 09. Theme Changer with Context API Concept
+### Difficulty: Medium (4/10)
+### You Will Learn
+- React Context API Technique.
+
+### Project Description
+This is another tiny project that changes the background of the content if ***Chnage Theme*** button is pressed. The main purpose for this project is to use the concept of **Context API** technique in React Project.
+
+### Project Screenshot
+*Click the following image to view Project*
+[![Render Props](./09-theme-changer-with-context-api-concept/images/context-api.png)](https://csb-ero98z.vercel.app/)
+
+### Project Link 
+**[Project Link](https://csb-ero98z.vercel.app/)**
+
+### Project Source Codes
+**[Source Codes](./09-theme-changer-with-context-api-concept/)**
+
+### Video Explanation
+Coming Soon...
+
+### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
