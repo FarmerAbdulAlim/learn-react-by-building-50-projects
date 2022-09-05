@@ -76,8 +76,7 @@ export default function Quiz() {
     await set(resultRef, {
       [id]: qn,
     });
-    navigate({
-      pathname: `/result/${id}`,
+    navigate(`/result/${id}`, {
       state: {
         qn,
       },

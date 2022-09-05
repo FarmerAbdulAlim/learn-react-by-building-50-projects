@@ -80,10 +80,6 @@ _Click the following image to view Project_
 
 **[Source Codes](01-hello-world-app/)**
 
-### Video Explanation
-
-Coming Soon...
-
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 02. Simple Counter
@@ -113,10 +109,6 @@ _Click the following image to view Project_
 
 **[Source Codes](./02-simple-counter/)**
 
-### Video Explanation
-
-Coming Soon...
-
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 03. Product List App
@@ -145,10 +137,6 @@ _Click the following image to view Project_
 
 **[Source Codes](./03-product-list-app/)**
 
-### Video Explanation
-
-Coming Soon...
-
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 04. Simple Quotes Generator
@@ -176,10 +164,6 @@ _Click the following image to view Project_
 ### Project Source Codes
 
 **[Source Codes](./04-simple-quotes-generator/)**
-
-### Video Explanation
-
-Coming Soon...
 
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
@@ -213,10 +197,6 @@ _Click the following image to view Project_
 
 **[Source Codes](./05-clock-app/)**
 
-### Video Explanation
-
-Coming Soon...
-
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 06. Temperature Converter
@@ -249,10 +229,6 @@ _Click the following image to view Project_
 
 **[Source Codes](./06-temparature-converter/)**
 
-### Video Explanation
-
-Coming Soon...
-
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 07. Counter and Hover using HOC
@@ -282,10 +258,6 @@ _Click the following image to view Project_
 
 **[Source Codes](./07-counter-and-hover-using-hoc/)**
 
-### Video Explanation
-
-Coming Soon...
-
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 08. Counter and Hover using Render Props
@@ -314,10 +286,6 @@ _Click the following image to view Project_
 
 **[Source Codes](./08-counter-and-hover-using-render-props/)**
 
-### Video Explanation
-
-Coming Soon...
-
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 09. Theme Changer with Context API Concept
@@ -344,9 +312,5 @@ _Click the following image to view Project_
 ### Project Source Codes
 
 **[Source Codes](./09-theme-changer-with-context-api-concept/)**
-
-### Video Explanation
-
-Coming Soon...
 
 ### [Back to Top](#50-react-projects-for-beginners-from-easy-to-hard)
