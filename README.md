@@ -80,7 +80,7 @@ _Click the following image to view Project_
 
 **[Source Codes](01-hello-world-app/)**
 
-<h3 align="center"> <a href="#50-react-projects-for-beginners-from-easy-to-hard">Back to Top</a> </h3>
+[<h2 align="center"> Back to Top</h2>](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 02. Simple Counter
 
@@ -109,7 +109,7 @@ _Click the following image to view Project_
 
 **[Source Codes](./02-simple-counter/)**
 
-<h3 align="center"> <a href="#50-react-projects-for-beginners-from-easy-to-hard">Back to Top</a> </h3>
+[<h2 align="center"> Back to Top</h2>](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 03. Product List App
 
@@ -137,7 +137,7 @@ _Click the following image to view Project_
 
 **[Source Codes](./03-product-list-app/)**
 
-<h3 align="center"> <a href="#50-react-projects-for-beginners-from-easy-to-hard">Back to Top</a> </h3>
+[<h2 align="center"> Back to Top</h2>](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 04. Simple Quotes Generator
 
@@ -165,7 +165,7 @@ _Click the following image to view Project_
 
 **[Source Codes](./04-simple-quotes-generator/)**
 
-<h3 align="center"> <a href="#50-react-projects-for-beginners-from-easy-to-hard">Back to Top</a> </h3>
+[<h2 align="center"> Back to Top</h2>](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 05. Clock App
 
@@ -197,7 +197,7 @@ _Click the following image to view Project_
 
 **[Source Codes](./05-clock-app/)**
 
-<h3 align="center"> <a href="#50-react-projects-for-beginners-from-easy-to-hard">Back to Top</a> </h3>
+[<h2 align="center"> Back to Top</h2>](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 06. Temperature Converter
 
@@ -229,7 +229,7 @@ _Click the following image to view Project_
 
 **[Source Codes](./06-temparature-converter/)**
 
-<h3 align="center"> <a href="#50-react-projects-for-beginners-from-easy-to-hard">Back to Top</a> </h3>
+[<h2 align="center"> Back to Top</h2>](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 07. Counter and Hover using HOC
 
@@ -258,7 +258,7 @@ _Click the following image to view Project_
 
 **[Source Codes](./07-counter-and-hover-using-hoc/)**
 
-<h3 align="center"> <a href="#50-react-projects-for-beginners-from-easy-to-hard">Back to Top</a> </h3>
+[<h2 align="center"> Back to Top</h2>](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 08. Counter and Hover using Render Props
 
@@ -286,7 +286,7 @@ _Click the following image to view Project_
 
 **[Source Codes](./08-counter-and-hover-using-render-props/)**
 
-<h3 align="center"> <a href="#50-react-projects-for-beginners-from-easy-to-hard">Back to Top</a> </h3>
+[<h2 align="center"> Back to Top</h2>](#50-react-projects-for-beginners-from-easy-to-hard)
 
 # 09. Theme Changer with Context API Concept
 
@@ -313,4 +313,4 @@ _Click the following image to view Project_
 
 **[Source Codes](./09-theme-changer-with-context-api-concept/)**
 
-<h3 align="center"> <a href="#50-react-projects-for-beginners-from-easy-to-hard">Back to Top</a> </h3>
+[<h2 align="center"> Back to Top</h2>](#50-react-projects-for-beginners-from-easy-to-hard)
