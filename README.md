@@ -76,6 +76,10 @@ _Click the following image to view Project_
 
 **[Live Project Link](https://csb-rwcjfk.vercel.app/)**
 
+### Video Explanation
+
+Coming Soon...
+
 ### Project Source Codes
 
 **[Source Codes](01-hello-world-app/)**
@@ -105,6 +109,10 @@ _Click the following image to view Project_
 
 **[Live Project Link](https://csb-iwjv8e.vercel.app/)**
 
+### Video Explanation
+
+Coming Soon...
+
 ### Project Source Codes
 
 **[Source Codes](./02-simple-counter/)**
@@ -133,6 +141,10 @@ _Click the following image to view Project_
 
 **[Live Project Link](https://csb-y4dfon.vercel.app/)**
 
+### Video Explanation
+
+Coming Soon...
+
 ### Project Source Codes
 
 **[Source Codes](./03-product-list-app/)**
@@ -160,6 +172,10 @@ _Click the following image to view Project_
 ### Live Project Link
 
 **[Live Project Link](https://csb-xux488.vercel.app/)**
+
+### Video Explanation
+
+Coming Soon...
 
 ### Project Source Codes
 
@@ -193,6 +209,10 @@ _Click the following image to view Project_
 
 **[Live Project Link](https://csb-dwqewq.vercel.app//)**
 
+### Video Explanation
+
+Coming Soon...
+
 ### Project Source Codes
 
 **[Source Codes](./05-clock-app/)**
@@ -225,6 +245,10 @@ _Click the following image to view Project_
 
 **[Live Project Link](https://csb-80gsxu.vercel.app/)**
 
+### Video Explanation
+
+Coming Soon...
+
 ### Project Source Codes
 
 **[Source Codes](./06-temparature-converter/)**
@@ -254,6 +278,10 @@ _Click the following image to view Project_
 
 **[Live Project Link](https://csb-ues9hg.vercel.app/)**
 
+### Video Explanation
+
+Coming Soon...
+
 ### Project Source Codes
 
 **[Source Codes](./07-counter-and-hover-using-hoc/)**
@@ -282,6 +310,10 @@ _Click the following image to view Project_
 
 **[Live Project Link](https://csb-eshymg.vercel.app/)**
 
+### Video Explanation
+
+Coming Soon...
+
 ### Project Source Codes
 
 **[Source Codes](./08-counter-and-hover-using-render-props/)**
@@ -308,6 +340,10 @@ _Click the following image to view Project_
 ### Live Project Link
 
 **[Live Project Link](https://csb-ero98z.vercel.app/)**
+
+### Video Explanation
+
+Coming Soon...
 
 ### Project Source Codes
 
